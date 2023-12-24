@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Astronomy",
+      "description": "Embark on a cosmic journey with our Astronomy Quiz, where the questions are as vast as the universe itself!",
+      "image": "quiz1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Geography",
+      "description": "Dive into the fascinating world of our Geography Quiz, where the Earth is your gameboard and knowledge is your compass! ",
+      "image": "quiz2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "History",
+      "description": "Step into the time machine of knowledge with our History Quiz, where every question is a portal to the past!",
+      "image": "quiz3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Football",
+      "description": "Gear up for a thrilling match of wits in our Football Quiz, where every question is a goal and knowledge is your MVP!",
+      "image": "quiz4.jpg"
+    }
+  ]
